@@ -1,0 +1,11 @@
+---
+_entity: "github.com/AmadlaOrg/Entity$v1"
+name: Infrastructure
+description: Entity Infrastructure configuration definitions.
+category: Infrastructure
+tags:
+  - infrastructure
+  - cloud
+  - server
+  - vm
+  - container
